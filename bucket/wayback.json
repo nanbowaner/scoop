@@ -1,0 +1,7 @@
+{
+  "homepage": "https://github.com/wabarc/wayback",
+  "version": "0.17",
+  "url": "https://github.com/wabarc/wayback/releases/download/v0.17.0/wayback-windows-amd64-0.17.0.zip",
+  "hash": "6767f8f67e0a2b5a6c4364cf2f6a1f679d2b351524a85236fd6efca983696bc2",
+  "bin": "wayback-windows-amd64.exe"
+ }
