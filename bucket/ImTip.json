@@ -1,1 +1,7 @@
-
+{
+  "homepage": "https://github.com/aardio/ImTip",
+  "version": "1",
+  "url": "https://imtip.aardio.com/update/ImTip.7z",
+  "hash": "483a8203d11053fe18f89bb4d95aaf97c4d6e4203a546d0f81efe19c5b221638",
+  "bin": "ImTip.exe"
+ }
