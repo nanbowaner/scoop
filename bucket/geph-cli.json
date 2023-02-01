@@ -4,6 +4,6 @@
     "homepage": "https://community.geph.io/t/topic/1694",
     "license": "GPL-3.0",
     "url": "https://f001.backblazeb2.com/file/geph-dl/geph4-binaries/v4.7.2-rc.1/geph4-client-windows-i386.exe",
-    "hash": "3806ccec938f3d1c165003fd0ea6dfd92bc025f3f5c8178543d7ea28679451a1",
+    "hash": "5aa720c9b3bbf3f160fe5975e5a5d20fc24b5b4ff28a2a5506e9bb574c285917",
     "bin": "geph4-client-windows-i386.exe"
 }
