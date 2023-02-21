@@ -2,6 +2,6 @@
   "homepage": "https://github.com/JasonkayZK/bark-cli",
   "version": "1.0.1",
   "url": "https://archive.org/download/bark-cli/bark-cli.exe",
-  "hash": "b4cbeb4dcc8e0b583bc5425ee767ded321c46894b154a12a15abf7121e4ac36b",
-  "bin": "transfer.exe"
+  "hash": "e604b043b7fb54801495de5ff08a49d2203d110b44bb7033ea62dd0f5e034cf0",
+  "bin": "bark-cli.exe"
  }
