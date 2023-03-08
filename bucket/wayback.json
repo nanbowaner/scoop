@@ -3,5 +3,5 @@
   "version": "0.18.1",
   "url": "https://github.com/wabarc/wayback/releases/download/v0.18.1/wayback-windows-amd64-0.18.1.zip",
   "hash": "9cb36e8ab6fda95d57762a1159189fda2155383267f4f399c0012e051fa04e00",
-  "bin": "wayback"
+  "bin": "wayback-windows-amd64.exe"
  }
